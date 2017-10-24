@@ -1,0 +1,12 @@
+name: GMO_DataTable
+title: GMO_DataTable
+username:
+account: vkmdatatables
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 228764
+bundleId: 1042780
+url: https://vkmdatatables.shinyapps.io/gmo_datatable/
+when: 1508867341.0214
+asMultiple: FALSE
+asStatic: FALSE
