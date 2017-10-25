@@ -2,7 +2,7 @@
 
 ### Firs commit of functional data table
 
-Need to fix layout,
-Move drop down manu -> left -  center above the main table,
-Fix logo,
-Incorporate css coloring,
+1 Need to fix layout,
+2 Move drop down manu -> left -  center above the main table,
+3 Fix logo,
+4 Incorporate css coloring,
